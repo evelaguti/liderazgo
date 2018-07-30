@@ -258,11 +258,13 @@ El desempeño se logra por dos variables: Alta o baja motivación
 
 ### Matriz de ejemplo de Liderazgo Situacional
 
+---
 <style>
     .centrado{
         text-align: center;
     }
 </style>
+---
 <table style="text-align: center">
     <thead>
         <tr>
